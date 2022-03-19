@@ -43,15 +43,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GRPhysicist
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
- # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: http://lattes.cnpq.br/4505511857327748
 - icon: researchgate
   icon_pack: fab
-  link: https://github.com/gcushen
+  link:https://www.researchgate.net/profile/Gabriel-Ribeiro-39
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/gabriel-pacheco-ribeiro-78a181123/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,4 +69,4 @@ highlight_name: true
 
 Gabriel Ribeiro is a MSc student of physics ar the Federal University of Pará. His research interests include gravitation, in specific it's modifications, black holes, information theory, foundation of quantum mechanics and pure mathematics. He is part of the grav@zon team, which develops research in lots of topics on gravitation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
