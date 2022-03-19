@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MScin Physics
+  - course: MSc in Physics
     institution: Federal University of Pará
     year: On course
   - course: BSc in Physics
@@ -42,11 +42,11 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/GRPhysicist
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+ # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
   icon_pack: fab
   link: https://github.com/gcushen
 - icon: linkedin
@@ -67,8 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Gabriel Ribeiro is a MSc student of physics ar the Federal University of Pará. His research interests include gravitation, in specific it's modifications, black holes, information theory, foundation of quantum mechanics and pure mathematics. He is part of the grav@zon team, which develops research in lots of topics on gravitation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
